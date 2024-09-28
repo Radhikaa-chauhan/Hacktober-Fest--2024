@@ -9,32 +9,32 @@
 
 | SL No.| Project Names | Status |
 | :---------------: | :---------------: | :---------------: |
-|1|Titanic Survival Project| <ul><li>[ ] Merged</li></ul> |
-|2|Housing Prices Prediction| <ul><li>[ ] Merged</li></ul> |
-|3|Gold Rate Predictor| <ul><li>[ ] Merged</li></ul> |
+|1|Basic Chatbot| <ul><li>[ ] Merged</li></ul> |
+|2|Image Gallery Classifier| <ul><li>[ ] Merged</li></ul> |
+|3|Weather Prediction Dashboard| <ul><li>[ ] Merged</li></ul> |
 
 ## [APP DEVELOPMENT](https://github.com/Spectrum-CETB/HacktoberFest-2023/tree/main/projects_Intermediate/APP_DEVELOPMENT)
 
 | SL No.| Project Names | Status |
 | :---------------: | :---------------: | :---------------: |
-|1|Arthimatic Calculator| <ul><li>[X] Merged</li></ul> |
-|2|BMI Calculator| <ul><li>[ ] Merged</li></ul> |
-|3|Colour Guessing Game| <ul><li>[ ] Merged</li></ul> |
-|4|Todo App| <ul><li>[ ] Merged</li></ul> |
+|1|Event Countdown Timer| <ul><li>[X] Merged</li></ul> |
+|2|Personal Budget Tracker| <ul><li>[ ] Merged</li></ul> |
+|3|Habit Tracker| <ul><li>[ ] Merged</li></ul> |
+|4|Simple Workout Logger| <ul><li>[ ] Merged</li></ul> |
 
 ## [UI & UX](https://github.com/Spectrum-CETB/HacktoberFest-2023/tree/main/projects_Intermediate/HARDWARE_DEVELOPMENT)
 
 | SL No.| Project Names | Status |
 | :---------------: | :---------------: | :---------------: |
-|1|Landing Page Website| <ul><li>[ ] Merged</li></ul> |
-|2|Sign UP/Login Page| <ul><li>[ ] Merged</li></ul> |
-|3|Wish List/ Cart Page| <ul><li>[ ] Merged</li></ul> |
+|1|Redesign of a Landing Page| <ul><li>[ ] Merged</li></ul> |
+|2|Minimalist Portfolio Website| <ul><li>[ ] Merged</li></ul> |
+|3|User Feedback Collection App| <ul><li>[ ] Merged</li></ul> |
 
 ## [WEB DEVELOPMENT](https://github.com/Spectrum-CETB/HacktoberFest-2023/tree/main/projects_Intermediate/WEB_DEVELOPEMENT)
 
 | SL No.| Project Names | Status |
 | :---------------: | :---------------: | :---------------: |
-|1|Wikipedia Clone| <ul><li>[ ] Merged</li></ul> |
-|2|Netflix UI Clone| <ul><li>[ ] Merged</li></ul> |
-|3|Portfolio Website| <ul><li>[ ] Merged</li></ul> |
-|4|To-Do List| <ul><li>[ ] Merged</li></ul> |
+|1|Blogging Platform| <ul><li>[ ] Merged</li></ul> |
+|2|Recipe Sharing Website| <ul><li>[ ] Merged</li></ul> |
+|3|Portfolio Showcase| <ul><li>[ ] Merged</li></ul> |
+|4|Local Business Directory| <ul><li>[ ] Merged</li></ul> |
